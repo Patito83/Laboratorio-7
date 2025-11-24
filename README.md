@@ -2,6 +2,7 @@
 
 ## Análisis de sentimientos
 
+<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/8f174d7076431c8a0aa89897c31e394e0f4201df/imagenes/Utilpy.jpeg" />
 https://github.com/Patito83/Laboratorio-7/blob/8f174d7076431c8a0aa89897c31e394e0f4201df/imagenes/Utilpy.jpeg
 imagenes/Utilpy.jpeg
 ## Desarrollo de un ETL 
