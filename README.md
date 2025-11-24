@@ -16,7 +16,9 @@ a cada uno le ejecutamos los siguiente codigos
 
 ## procesamiento.py
 
+<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/d5b8cdaa81955e4e454cb26fddf8351a25b6831c/imagenes/procesamiento.jpeg" />
 <img width="1327" height="314" alt="image" src="" />
+
 
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
