@@ -7,7 +7,7 @@ utils.py
 procesamiento.py
 mostrar.py
 lector.py        
-main_imagenes.py
+
 a cada uno le ejecutamos los siguiente codigos
 
 ## utils.py
@@ -22,11 +22,9 @@ a cada uno le ejecutamos los siguiente codigos
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/04e1f6603d9a8987cb555970a985f66db1b1254f/imagenes/procesamiento2.jpeg" />
 
 ## mostrar.py
+<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/9647fcd4cbb140f977729d3dacf9fe62491ef135/imagenes/mostrar2.jpeg" />
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/6f8f78985b2837168d876be505f591bf2776b49d/imagenes/mostrar1.jpeg" />
-
-<img width="1327" height="314" alt="image" src="" />
-
-
+## captura.py
 
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
