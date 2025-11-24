@@ -1,7 +1,7 @@
 # Laboratorio 7
 
 ## Análisis de sentimientos
-imagenes/WhatsApp Image 2025-11-23 at 20.54.24.jpeg
+(imagenes/WhatsApp Image 2025-11-23 at 20.54.24.jpeg)
 ## Desarrollo de un ETL 
 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
