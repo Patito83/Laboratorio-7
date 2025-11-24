@@ -25,8 +25,9 @@ a cada uno le ejecutamos los siguiente codigos
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/9647fcd4cbb140f977729d3dacf9fe62491ef135/imagenes/mostrar2.jpeg" />
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/6f8f78985b2837168d876be505f591bf2776b49d/imagenes/mostrar1.jpeg" />
 ## captura.py
-<img width="1327" height="314" alt="image" src="" />
+<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/801d89b2f66c3627fbd2c78be1676c4498342297/imagenes/captura1.jpeg" />
 
+<img width="1327" height="314" alt="image" src="" />
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
 
