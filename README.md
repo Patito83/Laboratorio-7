@@ -21,6 +21,10 @@ a cada uno le ejecutamos los siguiente codigos
 
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/04e1f6603d9a8987cb555970a985f66db1b1254f/imagenes/procesamiento2.jpeg" />
 
+## mostrar.py
+<img width="1327" height="314" alt="image" src="" />
+
+
 
 
 ## Desarrollo de un ETL 
