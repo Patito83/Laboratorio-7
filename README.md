@@ -31,8 +31,8 @@ a cada uno le ejecutamos los siguiente codigos
 
 3. Finalmente ejecutamos el proyecto con : python main.py y obtenemos estos resultados
 <img width="800" height="400" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/53088465c19a5d242bfb60afbec153ca1b36bad8/imagenes/WhatsApp%20Image%202025-11-23%20at%2022.28.57.jpeg" />
-<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/60ed63d2b708cff2b9a1b7f7d49db8efb9e5ec99/imagenes/WhatsApp%20Image%202025-11-23%20at%2022.29.55%20(1).jpeg" />
-<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/e8ea75f5e368a6026887d153b3695befe3e773a3/imagenes/WhatsApp%20Image%202025-11-23%20at%2022.29.55.jpeg" />
+<img width="800" height="400" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/60ed63d2b708cff2b9a1b7f7d49db8efb9e5ec99/imagenes/WhatsApp%20Image%202025-11-23%20at%2022.29.55%20(1).jpeg" />
+<img width="800" height="400" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/e8ea75f5e368a6026887d153b3695befe3e773a3/imagenes/WhatsApp%20Image%202025-11-23%20at%2022.29.55.jpeg" />
 
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
