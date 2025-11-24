@@ -1,10 +1,22 @@
 # Laboratorio 7
 
 ## Análisis de sentimientos
+1. Primero  abrimos la terminal linux y creamos la carpeta donde estara todo nuestro proyecto : mkdir analisis_sentimientos, cd analisis_sentimientos y creamos nuestro entorno virtual python3 -m venv venv, source venv/bin/activa, en donde instalaremos las dependencias pip install mediapipe opencv-python
+2. Creamos nuestros archivos 
+utils.py
+procesamiento.py
+mostrar.py
+lector.py        
+main_imagenes.py
+a cada uno le ejecutamos los siguiente codigos
+
+## utils.py
 
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/8f174d7076431c8a0aa89897c31e394e0f4201df/imagenes/Utilpy.jpeg" />
-https://github.com/Patito83/Laboratorio-7/blob/8f174d7076431c8a0aa89897c31e394e0f4201df/imagenes/Utilpy.jpeg
-imagenes/Utilpy.jpeg
+
+## procesamiento.py
+
+
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
 
