@@ -1,7 +1,7 @@
 # Laboratorio 7
 
 ## Análisis de sentimientos
-imagenes/Util.py.jpeg
+(imagenes/Util.py.jpeg)
 
 ## Desarrollo de un ETL 
 
