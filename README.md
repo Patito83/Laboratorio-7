@@ -1,7 +1,7 @@
 # Laboratorio 7
 
 ## Análisis de sentimientos
-![Texto opcional](imagenes/WhatsApp Image 2025-11-23 a las 20.54.24.jpeg)
+imagenes/Util.py.jpeg
 
 ## Desarrollo de un ETL 
 
