@@ -28,6 +28,12 @@ a cada uno le ejecutamos los siguiente codigos
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/801d89b2f66c3627fbd2c78be1676c4498342297/imagenes/captura1.jpeg" />
 
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/3f56682eedf371108e71c909863f4620cf6a5138/imagenes/captura1.jpeg" />
+
+3. Finalmente ejecutamos el proyecto con : python main.py y obtenemos estos resultados
+<img width="1327" height="314" alt="image" src="" />
+<img width="1327" height="314" alt="image" src="" />
+<img width="1327" height="314" alt="image" src="" />
+
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
 
