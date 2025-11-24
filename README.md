@@ -19,7 +19,8 @@ a cada uno le ejecutamos los siguiente codigos
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/d5b8cdaa81955e4e454cb26fddf8351a25b6831c/imagenes/procesamiento.jpeg" />
 <img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/1a689ebfc01db1713168a9eccae7e4ea6cff9cf9/imagenes/procesmaiento3.jpeg" />
 
-<img width="1327" height="314" alt="image" src="" />
+<img width="1327" height="314" alt="image" src="https://github.com/Patito83/Laboratorio-7/blob/04e1f6603d9a8987cb555970a985f66db1b1254f/imagenes/procesamiento2.jpeg" />
+
 
 
 ## Desarrollo de un ETL 
