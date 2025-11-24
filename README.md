@@ -2,7 +2,7 @@
 
 ## Análisis de sentimientos
 
-Utilpy
+https://github.com/Patito83/Laboratorio-7/blob/8f174d7076431c8a0aa89897c31e394e0f4201df/imagenes/Utilpy.jpeg
 imagenes/Utilpy.jpeg
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
