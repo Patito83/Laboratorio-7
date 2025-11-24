@@ -16,6 +16,7 @@ a cada uno le ejecutamos los siguiente codigos
 
 ## procesamiento.py
 
+<img width="1327" height="314" alt="image" src="" />
 
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
