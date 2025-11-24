@@ -250,6 +250,7 @@ st.download_button(
 2. Luego ejecutamos el streamLit ``streamlit run streamlit_app.py`` y visualizaremos los resultados.
 
 <img width="1327" height="314" alt="image" src="https://github.com/user-attachments/assets/1e5e3451-a2af-4e79-ae66-181b2f5f0877" />
+## Investigacion 
 
 
 ## Exploración Tecnologica 
