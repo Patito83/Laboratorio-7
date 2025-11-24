@@ -2,9 +2,8 @@
 
 ## Análisis de sentimientos
 
-imagenes/Utilpy.jpeg
+(imagenes/Utilpy.jpeg)
 ## Desarrollo de un ETL 
-
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
 
 Mediante conocimientos de estructuras ETl y streamlit, se realizo un analisis completo de resultados de sensores para el Tunel Carpiano. Mediante ETL esos resulados se leyeron y se implementaron en una grafica para entender los resultados del tuneol Carpiano.
