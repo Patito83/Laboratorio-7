@@ -3,6 +3,7 @@
 ## Análisis de sentimientos
 
 Utilpy
+imagenes/Utilpy.jpeg
 ## Desarrollo de un ETL 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
 
