@@ -1,8 +1,8 @@
 # Laboratorio 7
 
 ## Análisis de sentimientos
-(imagenes/Utilpy.jpeg)
 
+imagenes/Utilpy.jpeg
 ## Desarrollo de un ETL 
 
 ### Proyecto ETL + Streamlit - Sensores (Túnel Carpiano)
